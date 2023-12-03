@@ -64,15 +64,10 @@ The dataset utilized for this analysis comprises administrative data on more tha
 
 In this project, I utilized Python along with several libraries:
 
-**_Data Analysis_**:
-
 **pandas and numpy:** These were employed for data analysis, manipulation, and numerical operations.
-
-**_Data Visualizations:_**
 
 **matplotlib and seaborn**: These libraries were used to create visualizations and graphs for better data understanding.
 
 **folium:** It was utilized for geographic visualizations, adding a spatial aspect to the analysis.
 
-**_Machine Learning:_**
-sklearn: This library played a crucial role in implementing both supervised (regression) and unsupervised (clustering) machine learning tasks.
+**sklearn:** This library played a crucial role in implementing both supervised (regression) and unsupervised (clustering) machine learning tasks.
